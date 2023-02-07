@@ -1,0 +1,47 @@
+h1 {
+    font-size: 30px;
+    font-style: normal;
+    color: floralwhite;
+    font-family: cursive;
+    font-size-adjust: auto;
+    }
+h2 {
+     font-size-adjust: auto;
+    justify-content: 
+     }
+
+
+.psubtitulos {
+    Font-family: 'Lobster', cursive,sans-serif;
+     border:  3px solid #FF7400;
+   background: linear-gradient(#FE9D38, #EBF5FB,#FCA952);
+    font-size: 20px;
+}
+
+
+.pcontenido {
+    font-family: 'Nerko One', cursive,sans-serif;
+     border:  3px solid #FF7400;
+   background: linear-gradient(#FE9D38, #EBF5FB,#FCA952);
+    font-size: 20px;
+}
+
+
+.pimagenes {
+    
+    border:  3px solid #FF7400;
+   background: linear-gradient(#FE9D38, #EBF5FB,#FCA952);
+    font-size: 20px;
+    
+    
+}
+
+
+.pvideo {
+    
+    border:  4px solid #FF7400;
+   background: linear-gradient(#FE9D38, #EBF5FB,#FCA952);
+    font-size: 10px;
+    position: sticky;
+    
+}
